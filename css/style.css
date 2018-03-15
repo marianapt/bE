@@ -13,15 +13,9 @@
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 400;
-<<<<<<< HEAD
   font-size: 18px;
   line-height: 1.7;
   color: black;
-=======
-  font-size: 16px;
-  line-height: 1.7;
-  color: #777;
->>>>>>> cb730618a05c6ae9a1ab78276bd5eb9e3681f42f
   background: #fff;
 }
 
